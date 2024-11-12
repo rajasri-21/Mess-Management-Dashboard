@@ -1,0 +1,14 @@
+
+body {
+  transition: background-color 0.3s, color 0.3s; /* Smooth transition for background and text color */
+}
+
+body.dark {
+  background-color: #1a202c; /* Dark background color */
+  color: white; /* Light text color */
+}
+
+.bg-pink-500 {
+  background-color: #ec4899; /* You can adjust this for light mode */
+}
+
